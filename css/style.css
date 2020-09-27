@@ -27,16 +27,3 @@ h1 {
  }
 }
 
-@media only screen and (min-width: 1024px) {
- h1 {
-  font-size: 1.8rem;
-  letter-spacing: 4px;
- }
-}
-
-@media only screen and (min-width: 1440px) {
- h1 {
-  font-size: 2.3rem;
-  letter-spacing: 4px;
- }
-}
